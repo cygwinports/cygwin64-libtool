@@ -3,7 +3,7 @@ inherit cross
 
 NAME="cygwin64-libtool"
 VERSION=2.4.2
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="libtool for Cygwin 64bit toolchain"
 DESCRIPTION=
